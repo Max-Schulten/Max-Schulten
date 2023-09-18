@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Max-Schulten
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Maximilian Schulten, Case Western Reserve Univesity.
+
+Focus in A.I. and Software Engineering.
+
+Experienced in Java, OOP, Linux, HTML, and Python.
 
 <!---
 Max-Schulten/Max-Schulten is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
