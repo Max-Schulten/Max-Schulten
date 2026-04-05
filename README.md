@@ -1,6 +1,6 @@
 Maximilian Schulten, Case Western Reserve Univesity.
 
-B.S. Computer Science & B.S. Mathematics Candidate.
+B.S. Computer Science & M.S + B.S. Mathematics Candidate.
 
 <!---
 Max-Schulten/Max-Schulten is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
